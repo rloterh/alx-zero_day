@@ -1,1 +1,1 @@
-Not myegit first readme
+Not mygit first readme
